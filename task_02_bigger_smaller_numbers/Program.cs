@@ -13,20 +13,39 @@ namespace task_02_bigger_smaller_numbers
         static void Main(string[] args)
         {
             Console.Clear();
-            Console.Write("Enter the first number: ");
-            int nmbr1 = int.Parse(Console.ReadLine());
-            Console.Write("Enter the second number: ");
-            int nmbr2 = int.Parse(Console.ReadLine());
 
+            int nmbr1 = 0;
+            int nmbr2 = 0;
+           
+            nmbr1 = GetIntNmbr("Enter the first number: ");
+            nmbr2 = GetIntNmbr("Enter the second number: ");
+            
             if (nmbr1 > nmbr2)
             {
                 Console.WriteLine($"{nmbr1} > {nmbr2}");
             }
-            else
+            else if (nmbr1 < nmbr2)
             {
                 Console.WriteLine($"{nmbr1} < {nmbr2}");
             }
+            else
+            {
+                Console.WriteLine($"{nmbr1} = {nmbr2}");
+            }
             Console.ReadKey();
+
+            int GetIntNmbr(string msg)  // Integer console input method
+            {
+                int outpt = 0;
+                bool rslt = false;
+                
+                while (rslt == false)
+                {
+                    Console.Write(msg);
+                    rslt = int.TryParse(Console.ReadLine(), out outpt);
+                }   
+                return outpt;
+            }
         }
     }
 }
