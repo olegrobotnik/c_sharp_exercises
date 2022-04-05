@@ -20,5 +20,5 @@ for (int j = arry.GetLowerBound(0); j <= arry.GetUpperBound(0); j++)
 
 Console.WriteLine();
 
-Console.WriteLine("The maximum is {0}", maxNmbr);
+Console.WriteLine("   The maximum is {0}", maxNmbr);
 Console.ReadKey();
