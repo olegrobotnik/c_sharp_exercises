@@ -6,13 +6,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace task_00
+namespace task_00_squared_number
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-
             Console.Clear();
 
             Console.Write("Enter a number: ");
