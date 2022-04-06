@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_05_function_calculatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_06_even_or_odd", "task_06_even_or_odd\task_06_even_or_odd.csproj", "{D4FA5242-799D-4673-B8A9-897C1B2B34BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_07_numbers_-N_to_N", "task_07_numbers_-N_to_N\task_07_numbers_-N_to_N.csproj", "{A9365779-8F25-42C7-AF60-2A3F43CD84C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D4FA5242-799D-4673-B8A9-897C1B2B34BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4FA5242-799D-4673-B8A9-897C1B2B34BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4FA5242-799D-4673-B8A9-897C1B2B34BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9365779-8F25-42C7-AF60-2A3F43CD84C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9365779-8F25-42C7-AF60-2A3F43CD84C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9365779-8F25-42C7-AF60-2A3F43CD84C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9365779-8F25-42C7-AF60-2A3F43CD84C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
