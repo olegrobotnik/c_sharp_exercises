@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task_04_maximum_number", "t
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_05_function_calculation", "task_05_function_calculation\task_05_function_calculation.csproj", "{57910937-704D-4B0C-BDF2-68AC7FFFD6E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_06_even_or_odd", "task_06_even_or_odd\task_06_even_or_odd.csproj", "{D4FA5242-799D-4673-B8A9-897C1B2B34BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{57910937-704D-4B0C-BDF2-68AC7FFFD6E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57910937-704D-4B0C-BDF2-68AC7FFFD6E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57910937-704D-4B0C-BDF2-68AC7FFFD6E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4FA5242-799D-4673-B8A9-897C1B2B34BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FA5242-799D-4673-B8A9-897C1B2B34BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FA5242-799D-4673-B8A9-897C1B2B34BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FA5242-799D-4673-B8A9-897C1B2B34BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
