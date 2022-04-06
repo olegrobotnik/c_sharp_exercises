@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task_01_check_square", "tas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task_02_bigger_smaller_numbers", "task_02_bigger_smaller_numbers\task_02_bigger_smaller_numbers.csproj", "{C4ABB3B8-F678-4528-94A4-483B70265F42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_03_show_weekday", "task_03_show_weekday\task_03_show_weekday.csproj", "{7058B29B-3F4E-4415-A9E4-013B46FDC2CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task_03_show_weekday", "task_03_show_weekday\task_03_show_weekday.csproj", "{7058B29B-3F4E-4415-A9E4-013B46FDC2CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_04_maximum_number", "task_04_maximum_number\task_04_maximum_number.csproj", "{D0234B47-61DA-40AC-B7D5-F9322D8F5A76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task_04_maximum_number", "task_04_maximum_number\task_04_maximum_number.csproj", "{D0234B47-61DA-40AC-B7D5-F9322D8F5A76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_05_function_calculation", "task_05_function_calculation\task_05_function_calculation.csproj", "{57910937-704D-4B0C-BDF2-68AC7FFFD6E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{D0234B47-61DA-40AC-B7D5-F9322D8F5A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0234B47-61DA-40AC-B7D5-F9322D8F5A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0234B47-61DA-40AC-B7D5-F9322D8F5A76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57910937-704D-4B0C-BDF2-68AC7FFFD6E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57910937-704D-4B0C-BDF2-68AC7FFFD6E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57910937-704D-4B0C-BDF2-68AC7FFFD6E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57910937-704D-4B0C-BDF2-68AC7FFFD6E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
