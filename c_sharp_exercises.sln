@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_07_numbers_-N_to_N", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_08_even_numbers_1_to_N", "task_08_even_numbers_1_to_N\task_08_even_numbers_1_to_N.csproj", "{DC1C4851-F847-4365-B280-219EA87D745C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_09_third_digit", "task_09_third_digit\task_09_third_digit.csproj", "{B17DFF43-F9EF-472A-BBEA-20CB7CB3DC68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{DC1C4851-F847-4365-B280-219EA87D745C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC1C4851-F847-4365-B280-219EA87D745C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC1C4851-F847-4365-B280-219EA87D745C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17DFF43-F9EF-472A-BBEA-20CB7CB3DC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17DFF43-F9EF-472A-BBEA-20CB7CB3DC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17DFF43-F9EF-472A-BBEA-20CB7CB3DC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17DFF43-F9EF-472A-BBEA-20CB7CB3DC68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
